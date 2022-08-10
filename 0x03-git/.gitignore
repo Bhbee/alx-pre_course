@@ -1,1 +1,5 @@
+<<<<<<< HEAD:0x03-git/.gitignore
 
+=======
+git config --global core.excludesFile ~/.gitignore_global
+>>>>>>> 5d12dcaf65335403cf4daddaa66cc5904645b9d7:0x01-git/.gitignore
